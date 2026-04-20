@@ -8,14 +8,14 @@ using namespace std;
 
 int main()
 {
-    int i = 1;
+    int i = 1; // value i ko 1 sa initialize kia 
 
-    do
+    do // oihla body ko execute krta ha
     {
-        cout << i << endl;
-        i++;
+        cout << i << endl; //i ki value print karo aur next line par jawo 
+        i++;// i ki value 1 sa increase karo 
     }
-    while(i <= 10);
+    while(i <= 10); yaha pa condition check krta ha
 
     return 0;
 }
