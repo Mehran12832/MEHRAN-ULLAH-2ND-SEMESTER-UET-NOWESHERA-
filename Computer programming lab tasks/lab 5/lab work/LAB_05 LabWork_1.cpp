@@ -8,12 +8,12 @@ using namespace std;
 
 int main()
 {
-    int i = 1;
+    int i = 1;//variable i ko 1 se initialize kiya
 
-    while(i <= 10)
+    while(i <= 10)//jab tk i 10 se chota ya barabar hai loop chalega
     {
-        cout << i << endl;
-        i++;
+        cout << i << endl; //i ki value print karo aur next line pr jao 
+        i++; //i ki value 1 se increase karo
     }
 
     return 0;
