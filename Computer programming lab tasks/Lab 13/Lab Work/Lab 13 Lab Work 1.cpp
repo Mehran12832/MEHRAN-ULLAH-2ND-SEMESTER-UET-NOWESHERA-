@@ -1,6 +1,6 @@
 // Name:Mehran Ullah
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0710
 // Section: A
 
 #include <iostream>
