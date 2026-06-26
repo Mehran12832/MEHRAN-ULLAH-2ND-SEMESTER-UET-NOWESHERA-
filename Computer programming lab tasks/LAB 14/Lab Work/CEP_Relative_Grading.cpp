@@ -1,6 +1,6 @@
 // Name: Mehran Ullah
 // CEP: Relative Grading System
-// Student: Talha Ali | Reg: BF25NWELE0710
+// Reg: BF25NWELE0710
 // Semester 2 | UET Peshawar, Nowshera Campus
 // =====================================================
 
